@@ -40,9 +40,5 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# flake files
+# flake
 .direnv/
-
-# obsidian settings
-docs/.obsidian/
-docs/.vault-nickname
